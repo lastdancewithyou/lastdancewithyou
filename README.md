@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=61ad52&height=180&text=Gangmin's%20Github&animation=fadeIn&fontColor=000000&fontSize=70" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> My goal </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> :panda_face: My goal </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 데이터를 통해 사회적 현안을 해결하고 더 나은 세상을 만드는 분석가가 되고 싶습니다. </div> 
     </div>
     <div style="text-align: left;">
