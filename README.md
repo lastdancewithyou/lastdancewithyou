@@ -1,8 +1,21 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Gangmin's+GitHub!👋)](https://git.io/typing-svg)
- 
-
-
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=61ad52&height=180&text=Gangmin's%20Github&animation=fadeIn&fontColor=000000&fontSize=70" />
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> My goal </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 데이터를 통해 사회적 현안을 해결하고 더 나은 세상을 만드는 분석가가 되고 싶습니다. </div> 
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <div style="text-align: left;"> <a href=https://www.instagram.com/me__en03/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/me__en03/"> </a>
+         <a href=https://blog.naver.com/kanovatio> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://blog.naver.com/kanovatio"> </a>
+         <a href=https://www.notion.so/gangmin/Portfolio-7ae033bfce3d41eeae6b625b2d0432f5?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/gangmin/Portfolio-7ae033bfce3d41eeae6b625b2d0432f5?pvs=4"> </a>
+          </div>  <br> 
+    <div style="text-align: left;">  </div> 
+    </div>
+    
+    
+    
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Programming -->
