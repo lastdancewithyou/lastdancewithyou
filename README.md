@@ -14,7 +14,7 @@
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
-
+    
 ## Education
 | **Category**    | **Institution/Company**                   | **Degree/Position**                | **Duration**        |
 |-----------------|-------------------------------------------|------------------------------------|:-----------------:|
