@@ -15,8 +15,12 @@
     <div style="text-align: left;">  </div> 
     </div>
 
-## 🧑‍🎨 Thank you for visiting my Github
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flastdancewithyou&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)    
+## Education
+| **Category**    | **Institution/Company**                   | **Degree/Position**                | **Duration**        |
+|-----------------|-------------------------------------------|------------------------------------|:-----------------:|
+| **University** | Sejong University | B.A. in Business Administration, Business Analytics | 2018.03 - 2024.08     |
+| **Graduate School** | Korea University | M.S. in Industrial and Management Engineering | 2024.09 ~     |
+    
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Programming -->
@@ -43,5 +47,9 @@
         <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
         <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
     </div>
+    
+## 🧑‍🎨 Thank you for visiting my Github
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flastdancewithyou&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
+
 </div><br>
 </div>
