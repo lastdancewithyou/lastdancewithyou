@@ -15,13 +15,13 @@
     <div style="text-align: left;">  </div> 
     </div>
     
-## Education
+## 🏫 Education
 | **Category**    | **Institution/Company**                   | **Degree/Position**                | **Duration**        |
 |-----------------|-------------------------------------------|------------------------------------|:-----------------:|
 | **University** | Sejong University | B.A. in Business Administration, Business Analytics | 2018.03 - 2024.08     |
 | **Graduate School** | Korea University | M.S. in Industrial and Management Engineering | 2024.09 ~     |
     
-## 🔨 Once I've used 🔨
+## 🔨 Once I've used
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Programming -->
     <p><strong>Programming</strong></p>
