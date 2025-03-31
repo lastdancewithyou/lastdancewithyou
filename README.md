@@ -14,12 +14,18 @@
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
-    
+
+## Research
+| **Research**    | **Research place**                   | **Data source**                | **Duration**        | **Role**        |
+|-----------------|-------------------------------------------|------------------------------------|:-----------------:|:-----------------:|
+| **Multimodal Diagnosis Model for Edema in ICU via Contrastive Learning and Sparse Modality Imputation** | DAHS, School of Industrial and Management Engineering, Korea University,
+University of Pittsburgh-Pulmonary, Allergy and Critical Care Medicine	 | MIMIC-IV, MIMIC-CXR, MIMIC-Note  | 2025.12 ~     | Developing |
+
 ## 🏫 Education
 | **Category**    | **Institution/Company**                   | **Degree/Position**                | **Duration**        |
 |-----------------|-------------------------------------------|------------------------------------|:-----------------:|
-| **University** | Sejong University | B.A. in Business Administration, Business Analytics | 2018.03 - 2024.08     |
 | **Graduate School** | Korea University | M.S. in Industrial and Management Engineering | 2024.09 ~     |
+| **University** | Sejong University | B.A. in Business Administration, Business Analytics | 2018.03 - 2024.08     |
     
 ## 🔨 Once I've used
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
