@@ -18,8 +18,7 @@
 ## Research
 | **Research**    | **Research place**                   | **Data source**                | **Duration**        | **Role**        |
 |-----------------|-------------------------------------------|------------------------------------|:-----------------:|:-----------------:|
-| **Multimodal Diagnosis Model for Edema in ICU via Contrastive Learning and Sparse Modality Imputation** | DAHS, School of Industrial and Management Engineering, Korea University,
-University of Pittsburgh-Pulmonary, Allergy and Critical Care Medicine	 | MIMIC-IV, MIMIC-CXR, MIMIC-Note  | 2025.12 ~     | Developing |
+| **Multimodal Diagnosis Model for Edema in ICU via Contrastive Learning and Sparse Modality Imputation** | DAHS, School of Industrial and Management Engineering, Korea University, University of Pittsburgh-Pulmonary, Allergy and Critical Care Medicine	 | MIMIC-IV, MIMIC-CXR, MIMIC-Note  | 2025.12 ~     | Developing |
 
 ## 🏫 Education
 | **Category**    | **Institution/Company**                   | **Degree/Position**                | **Duration**        |
