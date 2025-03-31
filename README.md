@@ -8,15 +8,14 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 About me </h2> <br> 
     <div style="text-align: left;">
-         <a href=https://www.notion.so/gangmin/Portfolio-7ae033bfce3d41eeae6b625b2d0432f5?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/gangmin/Portfolio-7ae033bfce3d41eeae6b625b2d0432f5?pvs=4"> </a>
          <a href=https://blog.naver.com/kanovatio> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://blog.naver.com/kanovatio"> </a>
          <a href=https://public.tableau.com/app/profile/kanovatio/vizzes> <img src="https://img.shields.io/badge/Tableau Public-E97627?style=for-the-badge&logo=Tableau&logoColor=white&link=https://public.tableau.com/app/profile/kanovatio/vizzes"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
 
-## Research
-| 🧪 **Research**  | 🏫 **Research place** | 🗂️ **Data source** | ⏳ **Duration** | 👨‍💻 **Role** |
+## 🔬 Research
+| 🧪 **Research**  | 🏫 **Research place** | 🗂️ **Data source** | ⏳**Duration** | 👨‍💻 **Role** |
 |----------------|-----------------------|--------------------|:------------------:|:-------------:|
 | **Multimodal Diagnosis Model for Edema in ICU via Contrastive Learning and Sparse Modality Imputation** | • DAHS, School of Industrial and Management Engineering, Korea University<br>• University of Pittsburgh-Pulmonary, Allergy and Critical Care Medicine | MIMIC-IV, MIMIC-CXR, MIMIC-Note | 2025.12 ~ | Developing (Publishing planned) |
 
