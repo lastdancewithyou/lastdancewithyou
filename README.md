@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> :panda_face: My goal </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 인공지능을 통해 사회적 현안을 해결하고 더 나은 세상을 만드는 개발자가 되고 싶습니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 인공지능을 통해 사회적 현안을 해결하고 더 나은 세상을 만드는 연구자가 되고 싶습니다. </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 About me </h2> <br> 
