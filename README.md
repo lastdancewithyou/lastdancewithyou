@@ -18,7 +18,6 @@
 | 🧪&nbsp;**Research**  | 🏫&nbsp;**Institution** | 🗂️&nbsp;**Data** | 📅&nbsp;**Duration** | 👨‍💻&nbsp;**Role** |
 |----------------|-----------------------|--------------------|:------------------:|:-------------:|
 | **Multimodal Diagnosis Model for Edema in ICU via Contrastive Learning and Sparse Modality Imputation** | • DAHS, School of Industrial and Management Engineering, Korea University<br>• University of Pittsburgh-Pulmonary, Allergy and Critical Care Medicine | MIMIC-IV, MIMIC-CXR, MIMIC-Note | 2024.12 ~ Present| Developing |
-| **Development of Specialized Embedding Vectors and Pretrained Language Models for ICU EHR Analysis** | DAHS, School of Industrial and Management Engineering, Korea University | MIMIC-IV | 2024.09 ~ Present | Second Author |
 
 ## 🏫 Education
 | 🎓 **Category**    | 🏫 **Institution** | 🎖️ **Degree/Position** | 📅 **Duration** |
